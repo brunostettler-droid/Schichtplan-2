@@ -1,15 +1,17 @@
 # Schichtplan 2
 
-Schichtplan für das Thaifood-Team mit einer vereinfachten Kurieransicht.
+Aktueller gesicherter Stand: 10. Oktober 2026.
 
-## Kurier-Vorschau
+[Handyvorschau öffnen](https://brunostettler-droid.github.io/Schichtplan-2/Schichtplan-Designvorschau.html)
 
-`Kurier-Vorschau.html` im Browser öffnen. Die Vorschau speichert keine echten Buchungen. Sie enthält Tagesauswahl, Mittag- und Abendkarten und eine Bestätigung direkt an der ausgewählten Schicht.
+Die aktuelle Vorschau enthält das Schwarz-Rot-Design, den importierten Novemberplan 2026, Monatsauswahl, persönliche Schichtübersicht, Admin-Verwaltung sowie vorbereitete WhatsApp-Meldungen.
 
-## App-Quellcode
+Die Vorschau speichert keine echten Buchungen im gemeinsamen Online-Plan. Das Vorschau-Passwort gilt nur bis zum Neuladen und ersetzt keine serverseitige Anmeldung. WhatsApp-Nachrichten müssen manuell gesendet werden. Das Desktop-Journal wird noch nicht automatisch fortgeschrieben.
 
-`Schichtplan-2-Quellcode.zip` enthält den vollständigen Stand des Projekts unter `site-online/` inklusive der vorbereiteten Kurieransicht in `public/kurier.html`.
+## Sicherung
 
-Die neue Kurieransicht und ihre Verbindung zum gemeinsamen Plan sind vorbereitet, aber noch nicht veröffentlicht. Die bisherige Online-App bleibt bestehen.
+Schichtplan-2-Quellcode.zip enthält den aktuellen App-Quellcode unter site-online/, beide Vorschauen, die bearbeitbare Dezemberdatei, die Novemberzuordnung und das Admin-Journal. Zugangsdaten, installierte Pakete und lokale Laufzeitdateien sind ausgeschlossen.
 
-Nach dem Entpacken die Hinweise in `site-online/README.md` beachten. Lokale Zugangsdaten und installierte Pakete sind nicht enthalten.
+schichtplan-design.html ist die bearbeitbare Quelle der neuen Vorschau. Kurier-Vorschau.html bleibt als frühere Ansicht erhalten.
+
+Die bestehende Online-App und deren Datenbank werden durch diese GitHub-Sicherung nicht geändert.

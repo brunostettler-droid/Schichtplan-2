@@ -1,0 +1,71 @@
+SCHICHTAKTIVITÄTEN – ADMIN-JOURNAL
+Stand: 10. Oktober 2026, 15:00 Uhr (Europe/Zurich)
+
+Dieses Journal dokumentiert die aus dieser Unterhaltung belegbaren
+Verwaltungsarbeiten. Frühere Einzelbuchungen und Änderungen anderer
+Administratoren sind hier nicht vollständig nachvollziehbar.
+Für rückwirkende Einträge sind keine exakten Aktionszeitpunkte vorhanden.
+
+BISHERIGE VERWALTUNGSARBEITEN
+
+1. Feste Schichten aus Fixtage2025.xlsx übernommen.
+   Dauerhafte Besetzungen wurden in der Online-App als feste Schichten
+   markiert. Kuriere können diese nicht ändern; der Admin kann sie bearbeiten.
+   Raji und Ragi wurden als unterschiedliche Personen behandelt.
+   Javier: erster, dritter und gegebenenfalls fünfter Samstag.
+   Emin: zweites Wochenende im Monat frei.
+
+2. Jährliche Schließtage eingerichtet.
+   Ganztägig: 1. Januar, Ostersonntag, Pfingstsonntag, 1. August,
+   letzter Montag im November (Zibelemärit), 24., 25. und 31. Dezember.
+   Nur mittags: 2. Januar, Ostermontag, Pfingstmontag und 26. Dezember.
+   Die Regeln wurden in der Online-App veröffentlicht.
+
+3. Admin-Verwaltung für die neue Handyansicht vorbereitet.
+   Status: lokale Vorschau, nicht als neue Online-App veröffentlicht.
+   Enthält Monatsübersicht, Bearbeitung von Besetzungen, Erfassung von
+   Kurieren und WhatsApp-Kontakten.
+   Beim Überschreiben wird eine Bestätigung verlangt.
+   Für den bisherigen Kurier und den Admin werden WhatsApp-Nachrichten
+   vorbereitet; sie müssen in WhatsApp manuell abgesendet werden.
+   In dieser Unterhaltung wurden keine solchen Nachrichten versendet.
+
+4. Novemberplan 2026 aus 11_November_2026.xlsx eingelesen.
+   Status: in der lokalen App-Vorschau übernommen.
+   205 Besetzungen aus der Datei; davon 197 auf geöffneten Schichten.
+   17 verfügbare Schichten blieben frei.
+   Die 8 Besetzungen am 30. November wurden als Quelldaten erhalten,
+   wegen Zibelemärit jedoch gesperrt und nicht als aktive Einsätze angezeigt.
+   Vorhandene Namen wurden genau aus der Datei übernommen.
+   Besetzte Schichten sind in der Vorschau nur durch den Admin bearbeitbar.
+
+5. Passwortabfrage für den Admin ergänzt.
+   Status: nur lokale Vorschau.
+   Beim ersten Öffnen wird ein Passwort festgelegt; es gilt bis zum Neuladen.
+   Ein dauerhafter serverseitiger Passwortzugang wurde nicht eingerichtet.
+
+6. Persönliche Schichtübersicht ergänzt.
+   Status: lokale Vorschau.
+   Namensfilter zeigt Einsätze des ausgewählten Monats mit Gesamtzahl,
+   Datum, Tageszeit und Startzeit. Raji und Ragi werden getrennt gefiltert.
+
+7. Journal auf dem Schreibtisch angelegt.
+   Datum: 10. Oktober 2026.
+   Ordner: schichtaktivitäten
+   Datei: Admin-Journal.txt
+
+FORTLAUFENDE EINTRÄGE
+
+Neue Verwaltungsarbeiten können hier mit folgendem Schema ergänzt werden:
+
+Datum / Uhrzeit:
+Admin:
+Aktion:
+Betroffene Schicht (Datum / Mittag oder Abend / Startzeit):
+Bisherige Besetzung:
+Neue Besetzung:
+Benachrichtigung an bisherigen Kurier:
+Benachrichtigung an Admin:
+Status (Vorschau / online übernommen):
+
+Hinweis: Die App schreibt bisher nicht automatisch in diesen Desktop-Ordner.
